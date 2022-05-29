@@ -1,0 +1,9 @@
+1) Descontei a ponta do cálculo do volume no excel e inseri no arquivo BR-SANTAVERONICA-DB-02.csv - Cubagem (os cálculos estão no 
+arquivo BR-SANTAVERONICA-DB-02.xlsx na pasta cálculos) . 
+
+2) Separei os arquivos em Hipsometrico e volumetrico. O arquivo resultante do hipsometrico altura_predito utilizei para estimar
+o volume das parcelas no volumetrico. 
+
+3) O erro de amostragem foi calculado em Excel (os cálculos estão em CalculoErroamostragem na pasta cálculos)
+
+4) Todas as demais etapas foram feitas no pandas do python 
